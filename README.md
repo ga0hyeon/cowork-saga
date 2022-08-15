@@ -1,2 +1,2 @@
-# -cowork-saga
+# cowork-saga
 game-like cowork
